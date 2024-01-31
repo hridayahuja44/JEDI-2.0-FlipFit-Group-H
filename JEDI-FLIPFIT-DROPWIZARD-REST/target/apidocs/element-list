@@ -1,0 +1,10 @@
+com.flipkart
+com.flipkart.bean
+com.flipkart.client
+com.flipkart.constants
+com.flipkart.DAO
+com.flipkart.exception
+com.flipkart.rest
+com.flipkart.service
+com.flipkart.utils
+com.flipkart.validator
